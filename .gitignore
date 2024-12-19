@@ -1,0 +1,19 @@
+# 忽略所有的临时文件
+*.tmp
+
+# 忽略日志文件
+*.log
+
+# 忽略 node_modules 文件夹
+node_modules/
+
+# 忽略编译生成的文件
+*.class
+*.o
+*.exe
+
+
+*.json
+
+# 忽略某些特定文件夹
+/output/
